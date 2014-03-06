@@ -3,9 +3,9 @@
 /*
 __PocketMine Plugin__
 name=HungerGames
-description=HungerGames Plugin
+description=HungerGames Plugin Please download this map http://www.minecraftforum.net/topic/1724871-minecraft-pe-61-hunger-gamessurvival-games-map-made-by-devansurf
 version=1.0.0
-author=sekjun9878
+author=sekjun9878  
 class=HungerGames
 apiversion=8,9
 */
