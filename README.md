@@ -11,3 +11,7 @@ HUNGER GAMES
 
 Run From Console hg Without /
 In Game It Will Not Work
+
+PVPZONE
+
+Not Sure On Commands As I Have Never Used It
